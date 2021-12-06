@@ -76,7 +76,6 @@ def read_file(file_name):
 
 
 def main():
-    print("I hate Computer Science")
     # read in the file
     user_file = input("Please enter the name of the file: ")
     all_data = read_file(user_file)
