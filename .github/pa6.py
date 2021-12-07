@@ -5,7 +5,7 @@
 # Program Outputs: [difference in deaths to a file, graphs, avg, amount of damage to crops by storm]
 
 import matplotlib.pyplot as plt
-
+#
 startYearMonth = 0
 # 0. The year and month in the format YYYYMM in which the storm started
 
